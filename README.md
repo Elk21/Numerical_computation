@@ -4,4 +4,4 @@
 
 [LU decomposition](https://en.wikipedia.org/wiki/LU_decomposition)
 
-Solving [system of linear algebraic equations]{https://en.wikipedia.org/wiki/System_of_linear_equations) with LU decomposition
+Solving [system of linear algebraic equations](https://en.wikipedia.org/wiki/System_of_linear_equations) with LU decomposition
